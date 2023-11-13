@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fadhel Ghodhbane</h1>
-<h3 align="center">An ICT enginnering student looking for new opportunities in DevSecOps/Cybersecurity/Cloud computing field </h3>
+<h3 align="center">An ICT engineering student looking for new opportunities in Cybersecurity </h3>
 
 - 🔭 I’m currently working on **Adversary emulation and threat detection with Splunk**
 
